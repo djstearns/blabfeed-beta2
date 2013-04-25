@@ -1,0 +1,38 @@
+2012-12-28 10:00:19 Braintree_errors: BRAINTREE ERROR: Ad.145: Credit card token is taken.
+2012-12-28 10:00:47 Braintree_errors: BRAINTREE ERROR: Ad.145: Credit card token is taken.
+2012-12-28 10:06:42 Braintree_errors: BRAINTREE ERROR: Ad.145: Customer ID is invalid.
+2012-12-29 21:24:32 Braintree_errors: BRAINTREE ERROR: Location.11: Credit card token is taken.
+2012-12-29 21:24:53 Braintree_errors: BRAINTREE ERROR: Location.11: Credit card token is taken.
+2012-12-29 21:25:01 Braintree_errors: BRAINTREE ERROR: Location.11: Credit card token is taken.
+2012-12-29 21:33:43 Braintree_errors: BRAINTREE ERROR: Location.11: Credit card token is taken.
+2012-12-29 21:34:44 Braintree_errors: BRAINTREE ERROR: Location.11: Credit card token is taken.
+2012-12-29 21:39:21 Braintree_errors: BRAINTREE ERROR: Location.11: Credit card token is taken.
+2012-12-29 21:40:07 Braintree_errors: BRAINTREE ERROR: Location.11: Credit card token is taken.
+2012-12-29 21:41:39 Braintree_errors: BRAINTREE ERROR: Location.11: Credit card token is taken.
+2012-12-30 22:47:39 Braintree_errors: BRAINTREE ERROR: Location.15: Credit card number is invalid.
+2013-01-04 08:13:17 Braintree_errors: BRAINTREE ERROR: Location.38: Credit card number is invalid.
+Credit card type is not accepted by this merchant account.
+2013-01-04 17:50:27 Braintree_errors: BRAINTREE ERROR: Ad.236: Credit card token is taken.
+2013-01-04 22:33:32 Braintree_errors: BRAINTREE ERROR: Ad.242: Credit card token is taken.
+2013-01-04 22:38:05 Braintree_errors: BRAINTREE ERROR: Ad.242: Credit card token is taken.
+2013-01-04 22:40:40 Braintree_errors: BRAINTREE ERROR: Ad.242: Credit card token is taken.
+2013-01-05 12:34:18 Braintree_errors: BRAINTREE ERROR: Location.44: Expired Card
+2013-01-05 16:32:41 Braintree_errors: BRAINTREE ERROR: Ad.244: Declined
+2013-01-05 16:34:12 Braintree_errors: BRAINTREE ERROR: Ad.244: Declined
+2013-01-07 14:25:19 Braintree_errors: BRAINTREE ERROR: Location.42: Customer ID is invalid.
+2013-01-07 15:49:04 Braintree_errors: BRAINTREE ERROR: Location.42: Customer ID is invalid.
+2013-01-07 15:50:32 Braintree_errors: BRAINTREE ERROR: Location.42: Customer ID is invalid.
+2013-01-07 15:51:00 Braintree_errors: BRAINTREE ERROR: Location.42: Customer ID is invalid.
+2013-01-07 15:51:29 Braintree_errors: BRAINTREE ERROR: Location.42: Customer ID is invalid.
+2013-01-07 15:55:09 Braintree_errors: BRAINTREE ERROR: Location.42: Customer ID is invalid.
+2013-01-10 12:10:17 Braintree_errors: BRAINTREE ERROR: Location.88: Credit card number is required.
+2013-01-14 14:38:09 Braintree_errors: BRAINTREE ERROR: Ad.385: Credit card number is required.
+2013-01-14 22:32:12 Braintree_errors: BRAINTREE ERROR: Ad.388: Credit card token is taken.
+2013-01-14 22:35:28 Braintree_errors: BRAINTREE ERROR: Ad.388: Credit card token is taken.
+2013-01-14 22:35:59 Braintree_errors: BRAINTREE ERROR: Ad.388: Credit card number is invalid.
+2013-01-14 22:42:08 Braintree_errors: BRAINTREE ERROR: Ad.389: Credit card token is taken.
+2013-01-15 10:00:56 Braintree_errors: BRAINTREE ERROR: Ad.390: Credit card number is invalid.
+2013-01-15 10:02:10 Braintree_errors: BRAINTREE ERROR: Ad.390: Credit card token is taken.
+2013-01-15 10:27:59 Braintree_errors: BRAINTREE ERROR: Ad.393: Credit card token is taken.
+2013-01-16 12:28:01 Braintree_errors: BRAINTREE ERROR: Ad.401: Credit card number is required.
+2013-01-22 21:47:51 Braintree_errors: BRAINTREE ERROR: Ad.394: Credit card number is required.

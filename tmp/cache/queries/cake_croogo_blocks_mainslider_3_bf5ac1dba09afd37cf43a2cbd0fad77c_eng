@@ -1,0 +1,12 @@
+1366850339
+a:1:{i:0;a:2:{s:5:"Block";a:16:{s:2:"id";s:2:"12";s:9:"region_id";s:2:"18";s:5:"title";s:10:"mainslider";s:5:"alias";s:10:"mainslider";s:4:"body";s:599:"<div class="slide" data-effect-in="slide">
+                <div class="background ipad-white"> <iframe src="http://erp.blabfeed.com/register" width="350px" height="400px" style="border:none;"></iframe>
+                </div>
+              </div>
+              <div class="slide" data-effect-out="slide">
+                <div class="background ipad-black"> <iframe src="http://player.vimeo.com/video/48349226?title=0&amp;byline=0&amp;portrait=0"
+                    frameborder="0"
+                    height="468"
+                    width="352"></iframe>
+                </div>
+              </div>";s:10:"show_title";s:1:"0";s:5:"class";s:0:"";s:6:"status";s:1:"1";s:6:"weight";s:1:"1";s:7:"element";s:0:"";s:16:"visibility_roles";s:0:"";s:16:"visibility_paths";s:0:"";s:14:"visibility_php";N;s:6:"params";s:0:"";s:7:"updated";s:19:"2013-01-19 10:58:06";s:7:"created";s:19:"2012-11-16 14:19:10";}s:6:"Params";a:0:{}}}

@@ -1,0 +1,8 @@
+<BurgerMenu source="POS SalesMate DS-100">
+	<Burger size="S" name="test" resource="http://dynawebs.net/assets/images/ChickenBurger.png">
+		<ID>10560440</ID>
+	</Burger>
+	<Burger size="S" name="test1" resource="http://dynawebs.net/assets/images/SignatureBurger.png">
+		<ID>10560340</ID>
+	</Burger>
+</BurgerMenu>

@@ -1,0 +1,12 @@
+1366850339
+a:1:{i:0;a:2:{s:5:"Block";a:16:{s:2:"id";s:2:"23";s:9:"region_id";s:2:"21";s:5:"title";s:8:"iconarea";s:5:"alias";s:8:"iconarea";s:4:"body";s:599:"<ul class="social">
+<li class="facebook"><a href="http://www.facebook.com/blabfeed">Facebook</a></li>
+<li class="twitter"><a href="http://twitter.com/blabfeed">Twitter</a></li>
+<li class="email"><a title="info@blabfeed.com" href="/admin/blocks/">Email</a></li>
+<li class="rss"><a title="blabfeed" href="/admin/blocks/">RSS</a></li>
+<!-- More Social Icons:
+<li class="dribbble"><a href="" _mce_href="/admin/blocks/">Dribbble</a></li>
+<li class="google"><a href="" _mce_href="/admin/blocks/">Google</a></li>
+<li class="flickr"><a href="" _mce_href="/admin/blocks/">Flickr</a></li>
+--> 
+</ul>";s:10:"show_title";s:1:"0";s:5:"class";s:0:"";s:6:"status";s:1:"1";s:6:"weight";s:1:"4";s:7:"element";s:0:"";s:16:"visibility_roles";s:0:"";s:16:"visibility_paths";s:0:"";s:14:"visibility_php";N;s:6:"params";s:0:"";s:7:"updated";s:19:"2013-01-19 11:37:12";s:7:"created";s:19:"2013-01-19 11:37:12";}s:6:"Params";a:0:{}}}

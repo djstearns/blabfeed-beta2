@@ -1,0 +1,11 @@
+name: Full Calendar
+description: Full Calendar
+
+author: Author Name
+authorEmail: author@example.com
+authorUrl: http://example.com
+
+dependencies:
+  plugins:
+    - acl
+    - extensions
